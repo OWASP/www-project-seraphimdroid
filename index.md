@@ -83,7 +83,7 @@ This is an example of a Project or Chapter Page.
 </ul>
 <h2 id="donate_for_owasp_seraphimdroid">Donate for OWASP Seraphimdroid</h2>
 <div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
-<p>{{#widget:PayPal Donation</p></td>
+<p>#widget:PayPal Donation</p></td>
 </div>
 <h2 id="mailing_list">Mailing list</h2>
 <p><a href="https://lists.owasp.org/mailman/listinfo/owasp_seraphimdroid_project">Project mailing list</a></p>
