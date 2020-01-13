@@ -2,12 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Seraphimdroid
-tags: example-tag
+tags: mobile
 level: 0
 type: tool
 
-auto-migrated: 1
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
