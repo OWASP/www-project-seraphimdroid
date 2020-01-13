@@ -7,7 +7,7 @@ tags: mobile
 ---
 
 
-** OWASP Seraphimdroid encourages students and University lecturers to contribute to the projects. We would like to encourage any BSc, 3rd year or master project ideas that would improve Seraphimdroid app. Project leaders are willing to co-supervise these projects. Please contact us if you are interested. At the end of the page are listed some of the potential project ideas, but we encourage you to send us your ideas as well.
+**OWASP Seraphimdroid encourages students and University lecturers to contribute to the projects. We would like to encourage any BSc, 3rd year or master project ideas that would improve Seraphimdroid app. Project leaders are willing to co-supervise these projects. Please contact us if you are interested. At the end of the page are listed some of the potential project ideas, but we encourage you to send us your ideas as well.**
 
 ## Behavioral malware and intrusion analysis
 ### Brief Explanation:
