@@ -3,10 +3,10 @@
 * Android security and privacy protection app
 * Educational platform (planned)
 * OWASP SeraphimDroid provides:
-** Documentation on how Android permissions can be misused
-** Security guide for Android users
-** Security Android application
-** Application that keeps user secure and teaches him about risks
+  * Documentation on how Android permissions can be misused
+  * Security guide for Android users
+  * Security Android application
+  * Application that keeps user secure and teaches him about risks
 
 ### Classifications
 
