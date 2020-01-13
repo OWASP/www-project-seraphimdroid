@@ -11,7 +11,6 @@ auto-migrated: 1
 
 ---
 
-{front matter for this file}
 
 ## Mission:
 
