@@ -1,4 +1,3 @@
-
 ---
 title: Features and Collaboration
 layout:  col-sidebar
@@ -8,12 +7,12 @@ tags: mobile
 ---
 
 
-**OWASP Seraphimdroid encourages students and University lecturers to contribute to the projects. We would like to encourage any BSc, 3rd year or master project ideas that would improve Seraphimdroid app. Project leaders are willing to co-supervise these projects. Please contact us if you are interested. At the end of the page are listed some of the potential project ideas, but we encourage you to send us your ideas as well.
+** OWASP Seraphimdroid encourages students and University lecturers to contribute to the projects. We would like to encourage any BSc, 3rd year or master project ideas that would improve Seraphimdroid app. Project leaders are willing to co-supervise these projects. Please contact us if you are interested. At the end of the page are listed some of the potential project ideas, but we encourage you to send us your ideas as well.
 
 ## Behavioral malware and intrusion analysis
 ### Brief Explanation:
 
-OWASP Seraphimdroid is an Android mobile app which already has a capability to statically analyze malware using machine learning (weka toolkit) relying on permissions. However, this is usually not enough and we intend to improve this with behavioral analysis. There are a number of paper in scientific literature describing how to detect malware and intrusions by dynamically analyzing its behavior (system calls, battery consumption, etc.). The idea of this project is to find the best approach that can be implemented on the device and implement it.**
+OWASP Seraphimdroid is an Android mobile app which already has a capability to statically analyze malware using machine learning (weka toolkit) relying on permissions. However, this is usually not enough and we intend to improve this with behavioral analysis. There are a number of paper in scientific literature describing how to detect malware and intrusions by dynamically analyzing its behavior (system calls, battery consumption, etc.). The idea of this project is to find the best approach that can be implemented on the device and implement it. **
 
 ### Expected Results:
 
