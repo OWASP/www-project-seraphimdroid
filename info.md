@@ -19,9 +19,10 @@
 
 
 ### Downloads and Documentation
-Quick Download
-[Code repository](https://github.com/nikolamilosevic86/owasp-seraphimdroid)
+
+* [Code repository](https://github.com/nikolamilosevic86/owasp-seraphimdroid)
+
 Documents and publications:
-[User guide and Documentation](http://inspiratron.org/OWASPSeraphimdroid/SeraphimdroidDocumentation.pdf)
-[Article about android permissions, published by Digital Forensics magazine](http://inspiratron.org/AndroidSecurity.pdf)
-[Article describing deep learning based dynamic malware analysis and anomaly detection](https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf)
+* [User guide and Documentation](http://inspiratron.org/OWASPSeraphimdroid/SeraphimdroidDocumentation.pdf)
+* [Article about android permissions, published by Digital Forensics magazine](http://inspiratron.org/AndroidSecurity.pdf)
+* [Article describing deep learning based dynamic malware analysis and anomaly detection](https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf)
