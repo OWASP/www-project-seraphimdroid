@@ -1,9 +1,9 @@
 ---
-title: Example
-layout:  null
+title: News
+layout:  col-sidebar
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: mobile
 ---
 
 ## News
