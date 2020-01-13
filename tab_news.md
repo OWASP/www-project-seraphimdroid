@@ -8,8 +8,8 @@ tags: mobile
 
 ## News
 
-* (05.11.2019) We have participated this year in Google Summer of Code. The work done on dynamic malware analysis and anomaly detection on the device using deep learning is described in the following paper: https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf
-* (15.3.2017) We published a part of our machine learning methodology in Elsevier's scientific publication: Milosevic, Nikola, Ali Dehghantanha, and Kim-Kwang Raymond Choo. "Machine learning aided Android malware classification." Computers & Electrical Engineering (2017). http://www.sciencedirect.com/science/article/pii/S0045790617303087
+* (05.11.2019) We have participated this year in Google Summer of Code. The work done on dynamic malware analysis and anomaly detection on the device using deep learning is described in the following paper: [https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf](https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf)
+* (15.3.2017) We published a part of our machine learning methodology in Elsevier's scientific publication: Milosevic, Nikola, Ali Dehghantanha, and Kim-Kwang Raymond Choo. "Machine learning aided Android malware classification." Computers & Electrical Engineering (2017). [http://www.sciencedirect.com/science/article/pii/S0045790617303087](http://www.sciencedirect.com/science/article/pii/S0045790617303087)
 * (09.1.2017) OWASP Seraphimdroid was promoted to Lab project
 * (28.8.2016) New version (v2.0) of OWASP Seraphimdroid is released on Google play store. Blog post about new features can be [read here](http://inspiratron.org/blog/2015/09/08/new-version-of-owasp-seraphimdroid-v2-0-is-published/)
 * (10.7.2015) OWASP Seraphimdroid is participating at OWASP Summer Code Sprint 2015
