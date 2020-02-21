@@ -1,9 +1,12 @@
 ---
-title: Features and Collaboration
+
+title: Features
+displaytext: Features and Collaboration
 layout:  col-sidebar
 tab: true
 order: 3
 tags: mobile
+
 ---
 
 
